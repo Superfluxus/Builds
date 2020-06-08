@@ -1,9 +1,3 @@
-﻿#####################################################
-###     Dan's Quick Build script V1.73            ###
-#####################################################
-
-$moduleversion = "Dan's Quick Build script V1.73"
-
 ### Exit Function ###
 function areyousure
 {
